@@ -6,7 +6,7 @@ I share the code of a Unity3D-based memory task, where human participants memori
 
 
 
-In each experimental session, participants first learn the sequence composed of 4 distinct characters, and complete 120 trials underlying the sequence in the session with each trial necessitating 4 mouse clicks to connect three pairs based on their relations (e.g., A to B, B to C, and C to D). The location of characters were pseudorandomly arranged across the 120 trials, this procedure ensures the movement direction of mouse covers 0°-360° on screen space as evenly as possible with a step size of 3°。 
+In each experimental session, participants first learn the sequence composed of 4 distinct characters, and complete 120 trials underlying the sequence in the session with each trial necessitating 4 mouse clicks to connect three pairs based on their relations (e.g., A to B, B to C, and C to D). The location of characters were pseudorandomly arranged across the 120 trials, this procedure ensures that the movement directions of mouse movement IN EACH RELATON PAIR cover 0°-360° on screen space as evenly as possible with a step size of 3°。 
 <br /><br />
 
 
