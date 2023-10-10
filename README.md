@@ -7,6 +7,10 @@ In each experimental session, participants first learn the sequence composed of 
 <br />
 
 The location of characters were pseudorandomly arranged to ensure 
+
+
+
+
 we appreciate the non-sense characters used by the present study, which are supported by [Omniglot dataset ](https://www.omniglot.com/)
 
 <br /><br />
